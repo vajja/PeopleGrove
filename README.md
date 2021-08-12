@@ -18,7 +18,7 @@ Steps for setting up service rung the following commands:<br>
     "mentor_experitse":["Finance","Accounting"],
     "mentor_help_topics":[]
 }</dd>
- <li>Tried supoprt vector classifier as well there isn't much improvement. Lot of False positives are there even I tried removing the data where where both help topic and expertise wrt Mentee and Mentor are missing results only boosed by less tha 5% not beyound that.</li>
+ <li>Tried <b>supoprt vector classifier</b> as well there isn't much improvement. Lot of <b>False positives</b> are there even I tried removing the data where where both <b>help topic and expertise wrt Mentee and Mentor are missing</b> results only boosed by <b>5% in accuracy</b>.</li>
   <li>Haven't tried filling missing values as each feature has many values either help topics or expertise</li>
 </ul>
 
